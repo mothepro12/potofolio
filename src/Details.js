@@ -132,13 +132,12 @@ export const projectDetails = [
     githubLink: "https://github.com/mothepro12/crypto-geeks/tree/masterr",
   },
   {
-    title: "Project title 3",
+    title: "simple portofolio website",
     image: projectImage3,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
+    description: `this is the portofolio you are seeing right now `,
     techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    previewLink: "https://sparkling-mousse-531193.netlify.app/",
+    githubLink: "https://github.com/mothepro12/potofolio",
   },
   {
     title: "Project title 4",
